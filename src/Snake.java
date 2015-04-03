@@ -14,7 +14,7 @@ public class Snake {
     // Constants
     private final int SNAKE_RUNNING_SPEED_FASTEST = 25;
     private final int SNAKE_RUNNING_SPEED_FASTER = 50;
-    private final int SNAKE_RUNNING_SPEED_FAST = 100;
+    private final int SNAKE_RUNNING_SPEED_FAST = 75;
     private final int BOARD_WIDTH = 500;
     private final int BOARD_HEIGHT = 250;
     private final int SCORE_BOARD_HEIGHT = 20;
